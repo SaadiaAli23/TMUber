@@ -14,11 +14,10 @@ Handles trip pricing, driver earnings, and payment summaries.
 🧱 Object-Oriented Design
 Built using Java with key OOP principles such as:
 
-Inheritance
+ - Inheritance
+ - Polymorphism
+ - Abstract classes
 
-Polymorphism
-
-Abstract classes
 These principles promote modular, scalable, and maintainable code.
 
 # Technologies Used
