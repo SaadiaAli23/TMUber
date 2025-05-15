@@ -1,7 +1,7 @@
 # TMUber 
 TMUber is a Java-based application that simulates the core functionalities of Uber, developed as a project for Computer Science II. The program supports user registration, ride and delivery requests, and transaction management, offering a simplified yet functional experience inspired by real-world ride-sharing platforms
 
-Features
+# Features
 🚗 User Registration
 Users can register and log in to the platform as customers or drivers.
 
@@ -21,7 +21,7 @@ Polymorphism
 Abstract classes
 These principles promote modular, scalable, and maintainable code.
 
-Technologies Used
+# Technologies Used
 Language: Java
 
 Concepts: Object-Oriented Programming, Abstraction, Encapsulation, Inheritance, Polymorphism
